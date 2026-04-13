@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyBlog — Full-Stack Blog & CMS Platform
 
 A production-ready, feature-rich blog platform and content management system built with **Next.js 16**, **React 19**, **Prisma 7**, and **PostgreSQL 16**. Includes a complete admin dashboard, rich text editor, SEO engine, ad management, social distribution, media library, CAPTCHA system, background job runner, cookie consent (GDPR), analytics injection, newsletter, and more — deployable on **Vercel** or any **Docker / VPS** host.
@@ -1767,3 +1768,6 @@ This project is **private** and not licensed for public use or redistribution.
 <p align="center">
   Built with ❤️ using <strong>Next.js 16</strong>, <strong>React 19</strong>, <strong>Prisma 7</strong>, and <strong>PostgreSQL 16</strong>
 </p>
+=======
+# decoreland
+>>>>>>> 9a4ccf6cc2bdfefffd0c400ddf1e6a9868ba5a90
