@@ -4,6 +4,8 @@ import { mediaService } from "@/server/wiring";
 import { createLogger } from "@/server/observability/logger";
 import { UploadMediaSchema } from "@/features/media/server/schemas";
 
+export const maxDuration = 30;
+
 const logger = createLogger("api/upload");
 
 /**
